@@ -1,1 +1,1 @@
-#!/bin/bashdpkg-deb -bZgzip projects/Nameofpackage debs#make sure to leave a blank line at the end
+#!/bin/bashdpkg-deb -bZgzip projects/icons debs#make sure to leave a blank line at the end
