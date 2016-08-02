@@ -1,0 +1,7 @@
+Architecture: iphoneos-arm
+Author:  reponame 
+Depiction: https://github.com/username/username.github.io Description: Adds Icon Images
+Maintainer:  reponame  <reponame@example.com> Name: nameofpackage
+Package: com.reponame.nameofpackage
+Section: Tweaks
+Version: 1.0
